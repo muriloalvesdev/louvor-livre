@@ -1,0 +1,604 @@
+[
+  {
+    "file": "alessandro-vilas-boas--nada-alem-de-ti",
+    "artist": "Alessandro Vilas Boas",
+    "title": "Nada Além de Ti",
+    "tone": "E",
+    "tags": [
+      "adoração",
+      "intimidade",
+      "fé",
+      "confiança"
+    ]
+  },
+  {
+    "file": "aline-barros--casa-do-pai",
+    "artist": "Aline Barros",
+    "title": "Casa do Pai",
+    "tone": "D",
+    "tags": [
+      "lar",
+      "presença de Deus",
+      "adoração",
+      "comunhão"
+    ]
+  },
+  {
+    "file": "aline-barros--consagracao",
+    "artist": "Aline Barros",
+    "title": "Consagração",
+    "tone": "A",
+    "tags": [
+      "consagração",
+      "entrega",
+      "adoração",
+      "rendição"
+    ]
+  },
+  {
+    "file": "aline-barros--ressuscita-me",
+    "artist": "Aline Barros",
+    "title": "Ressuscita-me",
+    "tone": "E",
+    "tags": [
+      "avivamento",
+      "adoração",
+      "clamor",
+      "poder"
+    ]
+  },
+  {
+    "file": "aline-barros--sonda-me-usa-me",
+    "artist": "Aline Barros",
+    "title": "Sonda-me Usa-me",
+    "tone": "F",
+    "tags": [
+      "consagração",
+      "santificação",
+      "entrega",
+      "adoração"
+    ]
+  },
+  {
+    "file": "anderson-freire--primeira-essencia",
+    "artist": "Anderson Freire",
+    "title": "Primeira Essência",
+    "tone": "E",
+    "tags": [
+      "arrependimento",
+      "avivamento",
+      "primeiro amor",
+      "adoração"
+    ]
+  },
+  {
+    "file": "andre-valadao--abraca-me",
+    "artist": "André Valadão",
+    "title": "Abraça-me",
+    "tone": "C",
+    "tags": [
+      "acolhimento",
+      "Pai",
+      "conforto",
+      "adoração"
+    ]
+  },
+  {
+    "file": "andre-valadao--quero-conhecer-jesus",
+    "artist": "André Valadão",
+    "title": "Quero Conhecer Jesus",
+    "tone": "A",
+    "tags": [
+      "intimidade",
+      "devocional",
+      "adoração",
+      "conhecimento"
+    ]
+  },
+  {
+    "file": "bruna-karla--sou-humano",
+    "artist": "Bruna Karla",
+    "title": "Sou Humano",
+    "tone": "C",
+    "tags": [
+      "graça",
+      "humildade",
+      "amor de deus",
+      "reflexão"
+    ]
+  },
+  {
+    "file": "cassiane--500-graus",
+    "artist": "Cassiane",
+    "title": "500 Graus",
+    "tone": "Bb",
+    "tags": [
+      "fogo",
+      "adoração",
+      "avivamento",
+      "entrega"
+    ]
+  },
+  {
+    "file": "david-quinlan--nao-mais-escravos",
+    "artist": "David Quinlan",
+    "title": "Não Mais Escravos",
+    "tone": "G",
+    "tags": [
+      "liberdade",
+      "identidade",
+      "filiação",
+      "adoração"
+    ]
+  },
+  {
+    "file": "diante-do-trono--preciso-de-ti",
+    "artist": "Diante do Trono",
+    "title": "Preciso de Ti",
+    "tone": "D",
+    "tags": [
+      "dependência",
+      "adoração",
+      "clamor",
+      "intimidade"
+    ]
+  },
+  {
+    "file": "diante-do-trono--quao-grande-e-o-meu-deus",
+    "artist": "Diante do Trono",
+    "title": "Quão Grande É o Meu Deus",
+    "tone": "A",
+    "tags": [
+      "grandeza",
+      "majestade",
+      "adoração",
+      "exaltação"
+    ]
+  },
+  {
+    "file": "eli-soares--deus-nao-te-rejeita",
+    "artist": "Eli Soares",
+    "title": "Deus Não Te Rejeita",
+    "tone": "C",
+    "tags": [
+      "amor de deus",
+      "acolhimento",
+      "graça",
+      "restauração"
+    ]
+  },
+  {
+    "file": "eyshila--fiel-a-mim",
+    "artist": "Eyshila",
+    "title": "Fiel a Mim",
+    "tone": "D",
+    "tags": [
+      "fidelidade",
+      "confiança",
+      "adoração",
+      "fé"
+    ]
+  },
+  {
+    "file": "felipe-rodrigues--vem-espirito-santo",
+    "artist": "Felipe Rodrigues",
+    "title": "Vem Espírito Santo",
+    "tone": "D",
+    "tags": [
+      "espírito santo",
+      "avivamento",
+      "oração",
+      "pentecostes"
+    ]
+  },
+  {
+    "file": "fernandinho--ainda-que-a-figueira",
+    "artist": "Fernandinho",
+    "title": "Ainda que a Figueira",
+    "tone": "Em",
+    "tags": [
+      "fé",
+      "perseverança",
+      "bíblico",
+      "adoração",
+      "Habacuque"
+    ]
+  },
+  {
+    "file": "fernandinho--faz-chover",
+    "artist": "Fernandinho",
+    "title": "Faz Chover",
+    "tone": "Em",
+    "tags": [
+      "avivamento",
+      "Espírito Santo",
+      "clamor",
+      "derramamento"
+    ]
+  },
+  {
+    "file": "fernandinho--grandes-coisas",
+    "artist": "Fernandinho",
+    "title": "Grandes Coisas",
+    "tone": "D",
+    "tags": [
+      "fé",
+      "esperança",
+      "adoração",
+      "grandeza de Deus"
+    ]
+  },
+  {
+    "file": "fernandinho--pra-sempre",
+    "artist": "Fernandinho",
+    "title": "Pra Sempre",
+    "tone": "G",
+    "tags": [
+      "amor de Deus",
+      "eternidade",
+      "adoração",
+      "fidelidade"
+    ]
+  },
+  {
+    "file": "fernandinho--teus-sonhos",
+    "artist": "Fernandinho",
+    "title": "Teus Sonhos",
+    "tone": "G",
+    "tags": [
+      "adoração",
+      "confiança",
+      "fé",
+      "entrega"
+    ]
+  },
+  {
+    "file": "fernandinho--uma-nova-historia",
+    "artist": "Fernandinho",
+    "title": "Uma Nova Historia",
+    "tone": "G",
+    "tags": [
+      "testemunho",
+      "libertação",
+      "adoração",
+      "vitória"
+    ]
+  },
+  {
+    "file": "gabriela-rocha--aleluia",
+    "artist": "Gabriela Rocha",
+    "title": "Aleluia",
+    "tone": "Bb",
+    "tags": [
+      "adoração",
+      "aleluia",
+      "louvor",
+      "clássico"
+    ]
+  },
+  {
+    "file": "gabriela-rocha--deus-provera",
+    "artist": "Gabriela Rocha",
+    "title": "Deus Proverá",
+    "tone": "C",
+    "tags": [
+      "provisão",
+      "fé",
+      "confiança",
+      "adoração"
+    ]
+  },
+  {
+    "file": "gabriela-rocha--eu-navegarei",
+    "artist": "Gabriela Rocha",
+    "title": "Eu Navegarei",
+    "tone": "A",
+    "tags": [
+      "Espírito Santo",
+      "profundidade",
+      "adoração",
+      "mergulho"
+    ]
+  },
+  {
+    "file": "gabriela-rocha--lugar-secreto",
+    "artist": "Gabriela Rocha",
+    "title": "Lugar Secreto",
+    "tone": "B",
+    "tags": [
+      "intimidade",
+      "adoração",
+      "oração",
+      "paz"
+    ]
+  },
+  {
+    "file": "gabriela-rocha--me-inclino",
+    "artist": "Gabriela Rocha",
+    "title": "Me Inclino",
+    "tone": "F",
+    "tags": [
+      "reverência",
+      "santidade",
+      "adoração",
+      "prostração"
+    ]
+  },
+  {
+    "file": "heloisa-rosa--vou-deixar-na-cruz",
+    "artist": "Heloisa Rosa",
+    "title": "Vou Deixar na Cruz",
+    "tone": "G",
+    "tags": [
+      "cruz",
+      "libertação",
+      "entrega",
+      "adoração"
+    ]
+  },
+  {
+    "file": "hillsong--oceanos",
+    "artist": "Hillsong",
+    "title": "Oceanos (Onde Meus Pés Podem Falhar)",
+    "tone": "D",
+    "tags": [
+      "fé",
+      "confiança",
+      "águas",
+      "adoração"
+    ]
+  },
+  {
+    "file": "isadora-pompeo--ninguem-explica-deus",
+    "artist": "Isadora Pompeo",
+    "title": "Ninguém Explica Deus",
+    "tone": "G",
+    "tags": [
+      "testemunho",
+      "milagre",
+      "adoração",
+      "sobrenatural"
+    ]
+  },
+  {
+    "file": "isadora-pompeo--pra-que-entre-o-rei",
+    "artist": "Isadora Pompeo",
+    "title": "Pra Que Entre o Rei",
+    "tone": "G",
+    "tags": [
+      "bíblico",
+      "Salmo 24",
+      "majestade",
+      "adoração"
+    ]
+  },
+  {
+    "file": "jesse-aguiar--eu-me-rendo",
+    "artist": "Jessé Aguiar",
+    "title": "Eu Me Rendo",
+    "tone": "E",
+    "tags": [
+      "rendição",
+      "entrega",
+      "adoração",
+      "consagração"
+    ]
+  },
+  {
+    "file": "kemuel--fica-tranquilo",
+    "artist": "Kemuel",
+    "title": "Fica Tranquilo",
+    "tone": "C",
+    "tags": [
+      "paz",
+      "confiança",
+      "ansiedade",
+      "conforto"
+    ]
+  },
+  {
+    "file": "kleber-lucas--aos-pes-da-cruz",
+    "artist": "Kleber Lucas",
+    "title": "Aos Pés da Cruz",
+    "tone": "C",
+    "tags": [
+      "cruz",
+      "rendição",
+      "perdão",
+      "adoração"
+    ]
+  },
+  {
+    "file": "laura-souguellis--santo-espirito",
+    "artist": "Laura Souguellis",
+    "title": "Santo Espírito",
+    "tone": "D",
+    "tags": [
+      "espírito santo",
+      "adoração",
+      "pentecostes",
+      "avivamento"
+    ]
+  },
+  {
+    "file": "leonardo-goncalves--ele-e-exaltado",
+    "artist": "Leonardo Gonçalves",
+    "title": "Ele é Exaltado",
+    "tone": "D",
+    "tags": [
+      "exaltação",
+      "louvor",
+      "majestade",
+      "adoração"
+    ]
+  },
+  {
+    "file": "luma-elpidio--bondade-de-deus",
+    "artist": "Luma Elpidio",
+    "title": "Bondade de Deus",
+    "tone": "C",
+    "tags": [
+      "bondade",
+      "gratidão",
+      "adoração",
+      "louvor"
+    ]
+  },
+  {
+    "file": "marine-friesen--santo",
+    "artist": "Marine Friesen",
+    "title": "Santo",
+    "tone": "A",
+    "tags": [
+      "santidade",
+      "adoração",
+      "apocalipse",
+      "reverência"
+    ]
+  },
+  {
+    "file": "midian-lima--jo",
+    "artist": "Midian Lima",
+    "title": "Jó",
+    "tone": "Em",
+    "tags": [
+      "fé",
+      "perseverança",
+      "bíblico",
+      "sofrimento",
+      "esperança"
+    ]
+  },
+  {
+    "file": "ministerio-zoe--yeshua-ha-mashiach",
+    "artist": "Ministério Zoe",
+    "title": "Yeshua Ha Mashiach",
+    "tone": "A",
+    "tags": [
+      "adoração",
+      "exaltação",
+      "nome de jesus",
+      "hebraico"
+    ]
+  },
+  {
+    "file": "ministerio-zoe--yeshua",
+    "artist": "Ministério Zoe",
+    "title": "Yeshua",
+    "tone": "E",
+    "tags": [
+      "nome de Jesus",
+      "adoração",
+      "exaltação",
+      "Yeshua"
+    ]
+  },
+  {
+    "file": "morada--so-quero-ver-voce",
+    "artist": "Morada",
+    "title": "Só Quero Ver Você",
+    "tone": "G",
+    "tags": [
+      "adoração",
+      "intimidade",
+      "devocional",
+      "morada"
+    ]
+  },
+  {
+    "file": "nivea-soares--rio-de-deus",
+    "artist": "Nívea Soares",
+    "title": "Rio de Deus",
+    "tone": "E",
+    "tags": [
+      "espírito santo",
+      "avivamento",
+      "adoração",
+      "cura"
+    ]
+  },
+  {
+    "file": "paulo-cesar-baruk--ele-nao-desiste-de-voce",
+    "artist": "Paulo César Baruk",
+    "title": "Ele Não Desiste de Você",
+    "tone": "D",
+    "tags": [
+      "esperança",
+      "fé",
+      "perseverança",
+      "amor de deus"
+    ]
+  },
+  {
+    "file": "priscilla-alcantara--empatia",
+    "artist": "Priscilla Alcântara",
+    "title": "Empatia",
+    "tone": "F",
+    "tags": [
+      "amor",
+      "compaixão",
+      "reflexão",
+      "contemporâneo"
+    ]
+  },
+  {
+    "file": "renascer-praise--grande-e-o-senhor",
+    "artist": "Renascer Praise",
+    "title": "Grande é o Senhor",
+    "tone": "G",
+    "tags": [
+      "grandeza",
+      "louvor",
+      "exaltação",
+      "congregacional"
+    ]
+  },
+  {
+    "file": "thalles-roberto--deus-me-ama",
+    "artist": "Thalles Roberto",
+    "title": "Deus me Ama",
+    "tone": "E",
+    "tags": [
+      "amor de Deus",
+      "identidade",
+      "graça",
+      "adoração"
+    ]
+  },
+  {
+    "file": "thalles-roberto--mesmo-sem-entender",
+    "artist": "Thalles Roberto",
+    "title": "Mesmo Sem Entender",
+    "tone": "G",
+    "tags": [
+      "confiança",
+      "fé",
+      "adoração",
+      "soberania"
+    ]
+  },
+  {
+    "file": "ton-carfi--me-ajude-a-melhorar",
+    "artist": "Ton Carfi",
+    "title": "Me Ajude a Melhorar",
+    "tone": "A",
+    "tags": [
+      "transformação",
+      "oração",
+      "crescimento",
+      "santificação"
+    ]
+  },
+  {
+    "file": "vocal-livre--lugar-de-adoracao",
+    "artist": "Vocal Livre",
+    "title": "Lugar de Adoração",
+    "tone": "F",
+    "tags": [
+      "adoração",
+      "presença de deus",
+      "comunhão",
+      "coral"
+    ]
+  }
+]
