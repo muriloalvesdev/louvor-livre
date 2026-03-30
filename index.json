@@ -1,5 +1,53 @@
 [
   {
+    "file": "alessandro-vilas-boas--cantico-de-moises",
+    "artist": "Alessandro Vilas Boas",
+    "title": "Cântico de Moisés",
+    "tone": "A",
+    "tags": [
+      "louvor",
+      "vitória",
+      "adoração",
+      "bíblico"
+    ]
+  },
+  {
+    "file": "alessandro-vilas-boas--chega-mais",
+    "artist": "Alessandro Vilas Boas",
+    "title": "Chega Mais",
+    "tone": "C",
+    "tags": [
+      "graça",
+      "amor",
+      "restauração",
+      "acolhimento"
+    ]
+  },
+  {
+    "file": "alessandro-vilas-boas--mais-perto",
+    "artist": "Alessandro Vilas Boas",
+    "title": "Mais Perto",
+    "tone": "B",
+    "tags": [
+      "intimidade",
+      "adoração",
+      "busca",
+      "proximidade"
+    ]
+  },
+  {
+    "file": "alessandro-vilas-boas--morada",
+    "artist": "Alessandro Vilas Boas",
+    "title": "Morada",
+    "tone": "G",
+    "tags": [
+      "adoração",
+      "presença",
+      "intimidade",
+      "consagração"
+    ]
+  },
+  {
     "file": "alessandro-vilas-boas--nada-alem-de-ti",
     "artist": "Alessandro Vilas Boas",
     "title": "Nada Além de Ti",
@@ -9,6 +57,198 @@
       "intimidade",
       "fé",
       "confiança"
+    ]
+  },
+  {
+    "file": "alessandro-vilas-boas--reckless-love",
+    "artist": "Alessandro Vilas Boas",
+    "title": "Reckless Love (Versão PT)",
+    "tone": "E",
+    "tags": [
+      "amor",
+      "graça",
+      "adoração",
+      "redenção"
+    ]
+  },
+  {
+    "file": "alessandro-vilas-boas--so-quero-ver-voce",
+    "artist": "Alessandro Vilas Boas",
+    "title": "Só Quero Ver Você",
+    "tone": "G",
+    "tags": [
+      "intimidade",
+      "adoração",
+      "busca",
+      "presença"
+    ]
+  },
+  {
+    "file": "alessandro-vilas-boas--sobrenatural",
+    "artist": "Alessandro Vilas Boas",
+    "title": "Sobrenatural",
+    "tone": "F",
+    "tags": [
+      "fé",
+      "milagres",
+      "poder",
+      "sobrenatural"
+    ]
+  },
+  {
+    "file": "alessandro-vilas-boas--teu-amor-nao-falha",
+    "artist": "Alessandro Vilas Boas",
+    "title": "Teu Amor Não Falha",
+    "tone": "C",
+    "tags": [
+      "amor",
+      "fidelidade",
+      "adoração",
+      "confiança"
+    ]
+  },
+  {
+    "file": "alessandro-vilas-boas--vem-espirito",
+    "artist": "Alessandro Vilas Boas",
+    "title": "Vem Espírito",
+    "tone": "D",
+    "tags": [
+      "Espírito Santo",
+      "avivamento",
+      "poder",
+      "adoração"
+    ]
+  },
+  {
+    "file": "alessandro-vilas-boas--vim-para-adorar-te",
+    "artist": "Alessandro Vilas Boas",
+    "title": "Vim Para Adorar-te",
+    "tone": "D",
+    "tags": [
+      "adoração",
+      "louvor",
+      "Jesus",
+      "gratidão"
+    ]
+  },
+  {
+    "file": "alexsander-lucio--altar",
+    "artist": "Alexsander Lucio",
+    "title": "Altar",
+    "tone": "F",
+    "tags": [
+      "altar",
+      "sacrifício",
+      "entrega",
+      "adoração"
+    ]
+  },
+  {
+    "file": "alexsander-lucio--eu-creio-em-ti",
+    "artist": "Alexsander Lucio",
+    "title": "Eu Creio em Ti",
+    "tone": "G",
+    "tags": [
+      "fé",
+      "confiança",
+      "crença",
+      "milagre"
+    ]
+  },
+  {
+    "file": "alexsander-lucio--fala-comigo",
+    "artist": "Alexsander Lucio",
+    "title": "Fala Comigo",
+    "tone": "G",
+    "tags": [
+      "oração",
+      "intimidade",
+      "Palavra",
+      "direção"
+    ]
+  },
+  {
+    "file": "alexsander-lucio--fogo-do-ceu",
+    "artist": "Alexsander Lucio",
+    "title": "Fogo do Céu",
+    "tone": "B",
+    "tags": [
+      "fogo",
+      "Espírito Santo",
+      "Pentecostes",
+      "avivamento"
+    ]
+  },
+  {
+    "file": "alexsander-lucio--intimidade",
+    "artist": "Alexsander Lucio",
+    "title": "Intimidade",
+    "tone": "C",
+    "tags": [
+      "intimidade",
+      "relacionamento",
+      "comunhão",
+      "busca"
+    ]
+  },
+  {
+    "file": "alexsander-lucio--marca-me",
+    "artist": "Alexsander Lucio",
+    "title": "Marca-me",
+    "tone": "E",
+    "tags": [
+      "marca",
+      "transformação",
+      "presença de Deus",
+      "consagração"
+    ]
+  },
+  {
+    "file": "alexsander-lucio--mover-de-deus",
+    "artist": "Alexsander Lucio",
+    "title": "Mover de Deus",
+    "tone": "A",
+    "tags": [
+      "mover",
+      "Espírito Santo",
+      "avivamento",
+      "sobrenatural"
+    ]
+  },
+  {
+    "file": "alexsander-lucio--quero-mais",
+    "artist": "Alexsander Lucio",
+    "title": "Quero Mais",
+    "tone": "D",
+    "tags": [
+      "sede",
+      "busca",
+      "intimidade",
+      "Espírito Santo"
+    ]
+  },
+  {
+    "file": "alexsander-lucio--senhor-da-minha-vida",
+    "artist": "Alexsander Lucio",
+    "title": "Senhor da Minha Vida",
+    "tone": "C",
+    "tags": [
+      "senhorio",
+      "entrega",
+      "submissão",
+      "adoração"
+    ]
+  },
+  {
+    "file": "alexsander-lucio--transforma-me",
+    "artist": "Alexsander Lucio",
+    "title": "Transforma-me",
+    "tone": "D",
+    "tags": [
+      "transformação",
+      "santificação",
+      "oleiro",
+      "processo"
     ]
   },
   {
@@ -120,6 +360,126 @@
     ]
   },
   {
+    "file": "central-3--a-cruz",
+    "artist": "Central 3",
+    "title": "A Cruz",
+    "tone": "E",
+    "tags": [
+      "cruz",
+      "sacrifício",
+      "redenção",
+      "salvação"
+    ]
+  },
+  {
+    "file": "central-3--deserto",
+    "artist": "Central 3",
+    "title": "Deserto",
+    "tone": "C",
+    "tags": [
+      "deserto",
+      "provação",
+      "confiança",
+      "formação"
+    ]
+  },
+  {
+    "file": "central-3--ele-vive",
+    "artist": "Central 3",
+    "title": "Ele Vive",
+    "tone": "D",
+    "tags": [
+      "ressurreição",
+      "vida",
+      "esperança",
+      "vitória"
+    ]
+  },
+  {
+    "file": "central-3--eu-sou-livre",
+    "artist": "Central 3",
+    "title": "Eu Sou Livre",
+    "tone": "B",
+    "tags": [
+      "liberdade",
+      "libertação",
+      "salvação",
+      "nova vida"
+    ]
+  },
+  {
+    "file": "central-3--lugar-secreto",
+    "artist": "Central 3",
+    "title": "Lugar Secreto",
+    "tone": "G",
+    "tags": [
+      "lugar secreto",
+      "intimidade",
+      "oração",
+      "comunhão"
+    ]
+  },
+  {
+    "file": "central-3--oceano",
+    "artist": "Central 3",
+    "title": "Oceano",
+    "tone": "D",
+    "tags": [
+      "profundidade",
+      "amor",
+      "fé",
+      "confiança"
+    ]
+  },
+  {
+    "file": "central-3--poderoso",
+    "artist": "Central 3",
+    "title": "Poderoso",
+    "tone": "F",
+    "tags": [
+      "poder",
+      "milagres",
+      "soberania",
+      "fé"
+    ]
+  },
+  {
+    "file": "central-3--rendido",
+    "artist": "Central 3",
+    "title": "Rendido",
+    "tone": "G",
+    "tags": [
+      "rendição",
+      "entrega",
+      "vontade de Deus",
+      "submissão"
+    ]
+  },
+  {
+    "file": "central-3--santo-e-o-senhor",
+    "artist": "Central 3",
+    "title": "Santo é o Senhor",
+    "tone": "E",
+    "tags": [
+      "santidade",
+      "adoração",
+      "reverência",
+      "majestade"
+    ]
+  },
+  {
+    "file": "central-3--vem",
+    "artist": "Central 3",
+    "title": "Vem",
+    "tone": "A",
+    "tags": [
+      "Espírito Santo",
+      "clamor",
+      "sede",
+      "presença de Deus"
+    ]
+  },
+  {
     "file": "david-quinlan--nao-mais-escravos",
     "artist": "David Quinlan",
     "title": "Não Mais Escravos",
@@ -156,6 +516,126 @@
     ]
   },
   {
+    "file": "drops--aqui-estou",
+    "artist": "DROPS",
+    "title": "Aqui Estou",
+    "tone": "E",
+    "tags": [
+      "rendição",
+      "adoração",
+      "entrega",
+      "serviço"
+    ]
+  },
+  {
+    "file": "drops--bondade-de-deus",
+    "artist": "DROPS",
+    "title": "Bondade de Deus",
+    "tone": "G",
+    "tags": [
+      "bondade",
+      "gratidão",
+      "fidelidade",
+      "adoração"
+    ]
+  },
+  {
+    "file": "drops--de-todo-coracao",
+    "artist": "DROPS",
+    "title": "De Todo Coração",
+    "tone": "G",
+    "tags": [
+      "adoração",
+      "entrega",
+      "devoção",
+      "amor"
+    ]
+  },
+  {
+    "file": "drops--gratidao",
+    "artist": "DROPS",
+    "title": "Gratidão",
+    "tone": "A",
+    "tags": [
+      "gratidão",
+      "louvor",
+      "testemunho",
+      "adoração"
+    ]
+  },
+  {
+    "file": "drops--livre-acesso",
+    "artist": "DROPS",
+    "title": "Livre Acesso",
+    "tone": "B",
+    "tags": [
+      "graça",
+      "adoração",
+      "cruz",
+      "intimidade"
+    ]
+  },
+  {
+    "file": "drops--nada-alem-de-ti",
+    "artist": "DROPS",
+    "title": "Nada Além de Ti",
+    "tone": "F",
+    "tags": [
+      "intimidade",
+      "adoração",
+      "busca",
+      "satisfação"
+    ]
+  },
+  {
+    "file": "drops--oceanos",
+    "artist": "DROPS",
+    "title": "Oceanos",
+    "tone": "D",
+    "tags": [
+      "fé",
+      "confiança",
+      "adoração",
+      "coragem"
+    ]
+  },
+  {
+    "file": "drops--ousado-amor",
+    "artist": "DROPS",
+    "title": "Ousado Amor",
+    "tone": "C",
+    "tags": [
+      "amor",
+      "graça",
+      "adoração",
+      "redenção"
+    ]
+  },
+  {
+    "file": "drops--primeiro-amor",
+    "artist": "DROPS",
+    "title": "Primeiro Amor",
+    "tone": "C",
+    "tags": [
+      "primeiro amor",
+      "restauração",
+      "adoração",
+      "arrependimento"
+    ]
+  },
+  {
+    "file": "drops--so-tu-es-santo",
+    "artist": "DROPS",
+    "title": "Só Tu és Santo",
+    "tone": "D",
+    "tags": [
+      "santidade",
+      "adoração",
+      "reverência",
+      "majestade"
+    ]
+  },
+  {
     "file": "eli-soares--deus-nao-te-rejeita",
     "artist": "Eli Soares",
     "title": "Deus Não Te Rejeita",
@@ -180,6 +660,186 @@
     ]
   },
   {
+    "file": "felipe-rodrigues--a-gloria-e-tua",
+    "artist": "Felipe Rodrigues",
+    "title": "A Glória é Tua",
+    "tone": "G",
+    "tags": [
+      "glória",
+      "louvor",
+      "exaltação",
+      "adoração"
+    ]
+  },
+  {
+    "file": "felipe-rodrigues--aviva-nos",
+    "artist": "Felipe Rodrigues",
+    "title": "Aviva-nos",
+    "tone": "E",
+    "tags": [
+      "avivamento",
+      "oração",
+      "clamor",
+      "igreja"
+    ]
+  },
+  {
+    "file": "felipe-rodrigues--clamo-a-ti",
+    "artist": "Felipe Rodrigues",
+    "title": "Clamo a Ti",
+    "tone": "Am",
+    "tags": [
+      "clamor",
+      "oração",
+      "busca",
+      "misericórdia"
+    ]
+  },
+  {
+    "file": "felipe-rodrigues--deixa-queimar",
+    "artist": "Felipe Rodrigues",
+    "title": "Deixa Queimar",
+    "tone": "G",
+    "tags": [
+      "fogo",
+      "espírito santo",
+      "consagração",
+      "avivamento"
+    ]
+  },
+  {
+    "file": "felipe-rodrigues--derrama-tua-gloria",
+    "artist": "Felipe Rodrigues",
+    "title": "Derrama Tua Glória",
+    "tone": "D",
+    "tags": [
+      "glória",
+      "avivamento",
+      "presença",
+      "derramamento"
+    ]
+  },
+  {
+    "file": "felipe-rodrigues--eu-vou-alem",
+    "artist": "Felipe Rodrigues",
+    "title": "Eu Vou Além",
+    "tone": "D",
+    "tags": [
+      "busca",
+      "presença",
+      "profundidade",
+      "adoração"
+    ]
+  },
+  {
+    "file": "felipe-rodrigues--fogo-santo",
+    "artist": "Felipe Rodrigues",
+    "title": "Fogo Santo",
+    "tone": "Em",
+    "tags": [
+      "fogo",
+      "pentecostes",
+      "santificação",
+      "avivamento"
+    ]
+  },
+  {
+    "file": "felipe-rodrigues--mais-de-ti",
+    "artist": "Felipe Rodrigues",
+    "title": "Mais de Ti",
+    "tone": "A",
+    "tags": [
+      "intimidade",
+      "busca",
+      "presença",
+      "adoração"
+    ]
+  },
+  {
+    "file": "felipe-rodrigues--me-rendo-a-ti",
+    "artist": "Felipe Rodrigues",
+    "title": "Me Rendo a Ti",
+    "tone": "C",
+    "tags": [
+      "rendição",
+      "entrega",
+      "intimidade",
+      "adoração"
+    ]
+  },
+  {
+    "file": "felipe-rodrigues--meu-refugio",
+    "artist": "Felipe Rodrigues",
+    "title": "Meu Refúgio",
+    "tone": "C",
+    "tags": [
+      "refúgio",
+      "proteção",
+      "confiança",
+      "salmo 91"
+    ]
+  },
+  {
+    "file": "felipe-rodrigues--nao-pare",
+    "artist": "Felipe Rodrigues",
+    "title": "Não Pare",
+    "tone": "E",
+    "tags": [
+      "encorajamento",
+      "fé",
+      "perseverança",
+      "adoração"
+    ]
+  },
+  {
+    "file": "felipe-rodrigues--rendido-estou",
+    "artist": "Felipe Rodrigues",
+    "title": "Rendido Estou",
+    "tone": "Bb",
+    "tags": [
+      "rendição",
+      "entrega",
+      "adoração",
+      "intimidade"
+    ]
+  },
+  {
+    "file": "felipe-rodrigues--santo-espirito",
+    "artist": "Felipe Rodrigues",
+    "title": "Santo Espírito",
+    "tone": "A",
+    "tags": [
+      "espírito santo",
+      "adoração",
+      "pentecostes",
+      "presença"
+    ]
+  },
+  {
+    "file": "felipe-rodrigues--sopra-espirito",
+    "artist": "Felipe Rodrigues",
+    "title": "Sopra Espírito",
+    "tone": "F",
+    "tags": [
+      "espírito santo",
+      "avivamento",
+      "renovação",
+      "vida"
+    ]
+  },
+  {
+    "file": "felipe-rodrigues--vaso-de-honra",
+    "artist": "Felipe Rodrigues",
+    "title": "Vaso de Honra",
+    "tone": "C",
+    "tags": [
+      "santificação",
+      "moldagem",
+      "consagração",
+      "entrega"
+    ]
+  },
+  {
     "file": "felipe-rodrigues--vem-espirito-santo",
     "artist": "Felipe Rodrigues",
     "title": "Vem Espírito Santo",
@@ -189,6 +849,42 @@
       "avivamento",
       "oração",
       "pentecostes"
+    ]
+  },
+  {
+    "file": "fernandinho--a-forca-do-louvor",
+    "artist": "Fernandinho",
+    "title": "A Força do Louvor",
+    "tone": "B",
+    "tags": [
+      "louvor",
+      "vitória",
+      "batalha espiritual",
+      "poder"
+    ]
+  },
+  {
+    "file": "fernandinho--abundante-chuva",
+    "artist": "Fernandinho",
+    "title": "Abundante Chuva",
+    "tone": "Bm",
+    "tags": [
+      "avivamento",
+      "chuva",
+      "clamor",
+      "Espírito Santo"
+    ]
+  },
+  {
+    "file": "fernandinho--adorarei",
+    "artist": "Fernandinho",
+    "title": "Adorarei",
+    "tone": "G",
+    "tags": [
+      "adoração",
+      "entrega",
+      "louvor",
+      "devoção"
     ]
   },
   {
@@ -205,6 +901,114 @@
     ]
   },
   {
+    "file": "fernandinho--apenas-um-toque",
+    "artist": "Fernandinho",
+    "title": "Apenas um Toque",
+    "tone": "A",
+    "tags": [
+      "cura",
+      "milagre",
+      "fé",
+      "toque de Deus"
+    ]
+  },
+  {
+    "file": "fernandinho--batiza-me",
+    "artist": "Fernandinho",
+    "title": "Batiza-me",
+    "tone": "A",
+    "tags": [
+      "Espírito Santo",
+      "batismo",
+      "clamor",
+      "avivamento"
+    ]
+  },
+  {
+    "file": "fernandinho--bencaos-que-nao-tem-fim",
+    "artist": "Fernandinho",
+    "title": "Bênçãos que Não Têm Fim",
+    "tone": "C",
+    "tags": [
+      "bênção",
+      "gratidão",
+      "promessa",
+      "prosperidade"
+    ]
+  },
+  {
+    "file": "fernandinho--caia-fogo",
+    "artist": "Fernandinho",
+    "title": "Caia Fogo",
+    "tone": "Em",
+    "tags": [
+      "fogo",
+      "avivamento",
+      "Espírito Santo",
+      "clamor"
+    ]
+  },
+  {
+    "file": "fernandinho--e-o-senhor",
+    "artist": "Fernandinho",
+    "title": "É o Senhor",
+    "tone": "G",
+    "tags": [
+      "adoração",
+      "exaltação",
+      "soberania",
+      "louvor"
+    ]
+  },
+  {
+    "file": "fernandinho--enche-me-de-ti",
+    "artist": "Fernandinho",
+    "title": "Enche-me de Ti",
+    "tone": "G",
+    "tags": [
+      "Espírito Santo",
+      "entrega",
+      "consagração",
+      "presença de Deus"
+    ]
+  },
+  {
+    "file": "fernandinho--eu-cuido-de-ti",
+    "artist": "Fernandinho",
+    "title": "Eu Cuido de Ti",
+    "tone": "C",
+    "tags": [
+      "cuidado",
+      "consolo",
+      "confiança",
+      "amor de Deus"
+    ]
+  },
+  {
+    "file": "fernandinho--eu-jamais-serei-o-mesmo",
+    "artist": "Fernandinho",
+    "title": "Eu Jamais Serei o Mesmo",
+    "tone": "E",
+    "tags": [
+      "transformação",
+      "testemunho",
+      "nova criatura",
+      "graça"
+    ]
+  },
+  {
+    "file": "fernandinho--eu-vou-abrir-o-mar",
+    "artist": "Fernandinho",
+    "title": "Eu Vou Abrir o Mar",
+    "tone": "G",
+    "tags": [
+      "fé",
+      "livramento",
+      "milagre",
+      "confiança"
+    ]
+  },
+  {
     "file": "fernandinho--faz-chover",
     "artist": "Fernandinho",
     "title": "Faz Chover",
@@ -214,6 +1018,18 @@
       "Espírito Santo",
       "clamor",
       "derramamento"
+    ]
+  },
+  {
+    "file": "fernandinho--galileu",
+    "artist": "Fernandinho",
+    "title": "Galileu",
+    "tone": "E",
+    "tags": [
+      "adoração",
+      "exaltação",
+      "majestade",
+      "Jesus"
     ]
   },
   {
@@ -229,6 +1045,126 @@
     ]
   },
   {
+    "file": "fernandinho--ha-um-rio",
+    "artist": "Fernandinho",
+    "title": "Há um Rio",
+    "tone": "D",
+    "tags": [
+      "avivamento",
+      "Espírito Santo",
+      "rio",
+      "presença de Deus"
+    ]
+  },
+  {
+    "file": "fernandinho--jesus-filho-de-deus",
+    "artist": "Fernandinho",
+    "title": "Jesus Filho de Deus",
+    "tone": "G",
+    "tags": [
+      "adoração",
+      "Jesus",
+      "exaltação",
+      "majestade"
+    ]
+  },
+  {
+    "file": "fernandinho--me-leva-alem",
+    "artist": "Fernandinho",
+    "title": "Me Leva Além",
+    "tone": "C",
+    "tags": [
+      "intimidade",
+      "busca",
+      "profundidade",
+      "presença de Deus"
+    ]
+  },
+  {
+    "file": "fernandinho--meu-escudo",
+    "artist": "Fernandinho",
+    "title": "Meu Escudo",
+    "tone": "E",
+    "tags": [
+      "proteção",
+      "refúgio",
+      "confiança",
+      "segurança"
+    ]
+  },
+  {
+    "file": "fernandinho--mil-graus",
+    "artist": "Fernandinho",
+    "title": "Mil Graus",
+    "tone": "Bm",
+    "tags": [
+      "fogo",
+      "Espírito Santo",
+      "avivamento",
+      "poder"
+    ]
+  },
+  {
+    "file": "fernandinho--nada-pode-calar-um-adorador",
+    "artist": "Fernandinho",
+    "title": "Nada Pode Calar um Adorador",
+    "tone": "A",
+    "tags": [
+      "louvor",
+      "adoração",
+      "perseverança",
+      "fé"
+    ]
+  },
+  {
+    "file": "fernandinho--nao-vou-desistir",
+    "artist": "Fernandinho",
+    "title": "Não Vou Desistir",
+    "tone": "A",
+    "tags": [
+      "fé",
+      "perseverança",
+      "encorajamento",
+      "confiança"
+    ]
+  },
+  {
+    "file": "fernandinho--o-ceu-desceu",
+    "artist": "Fernandinho",
+    "title": "O Céu Desceu",
+    "tone": "A",
+    "tags": [
+      "presença de Deus",
+      "glória",
+      "avivamento",
+      "sobrenatural"
+    ]
+  },
+  {
+    "file": "fernandinho--o-hino",
+    "artist": "Fernandinho",
+    "title": "O Hino",
+    "tone": "C",
+    "tags": [
+      "adoração",
+      "louvor",
+      "celebração",
+      "maravilhas"
+    ]
+  },
+  {
+    "file": "fernandinho--poderoso-deus",
+    "artist": "Fernandinho",
+    "title": "Poderoso Deus",
+    "tone": "D",
+    "tags": [
+      "poder",
+      "majestade",
+      "exaltação",
+      "soberania"
+    ]
+  },
+  {
     "file": "fernandinho--pra-sempre",
     "artist": "Fernandinho",
     "title": "Pra Sempre",
@@ -238,6 +1174,42 @@
       "eternidade",
       "adoração",
       "fidelidade"
+    ]
+  },
+  {
+    "file": "fernandinho--quando-eu-chorar",
+    "artist": "Fernandinho",
+    "title": "Quando Eu Chorar",
+    "tone": "G",
+    "tags": [
+      "consolo",
+      "cuidado",
+      "lágrimas",
+      "amor de Deus"
+    ]
+  },
+  {
+    "file": "fernandinho--sede-de-ti",
+    "artist": "Fernandinho",
+    "title": "Sede de Ti",
+    "tone": "D",
+    "tags": [
+      "intimidade",
+      "sede",
+      "busca",
+      "presença de Deus"
+    ]
+  },
+  {
+    "file": "fernandinho--sou-feliz",
+    "artist": "Fernandinho",
+    "title": "Sou Feliz",
+    "tone": "C",
+    "tags": [
+      "alegria",
+      "gratidão",
+      "salvação",
+      "celebração"
     ]
   },
   {
@@ -253,6 +1225,18 @@
     ]
   },
   {
+    "file": "fernandinho--todas-as-coisas",
+    "artist": "Fernandinho",
+    "title": "Todas as Coisas",
+    "tone": "D",
+    "tags": [
+      "fé",
+      "confiança",
+      "promessa",
+      "encorajamento"
+    ]
+  },
+  {
     "file": "fernandinho--uma-nova-historia",
     "artist": "Fernandinho",
     "title": "Uma Nova Historia",
@@ -262,6 +1246,42 @@
       "libertação",
       "adoração",
       "vitória"
+    ]
+  },
+  {
+    "file": "fernandinho--uncao-do-espirito-santo",
+    "artist": "Fernandinho",
+    "title": "Unção do Espírito Santo",
+    "tone": "D",
+    "tags": [
+      "Espírito Santo",
+      "unção",
+      "clamor",
+      "consagração"
+    ]
+  },
+  {
+    "file": "fernandinho--vem-com-a-chuva",
+    "artist": "Fernandinho",
+    "title": "Vem com a Chuva",
+    "tone": "Em",
+    "tags": [
+      "Espírito Santo",
+      "chuva",
+      "avivamento",
+      "clamor"
+    ]
+  },
+  {
+    "file": "fernandinho--yeshua",
+    "artist": "Fernandinho",
+    "title": "Yeshua",
+    "tone": "E",
+    "tags": [
+      "adoração",
+      "Jesus",
+      "nome",
+      "salvação"
     ]
   },
   {
@@ -325,6 +1345,126 @@
     ]
   },
   {
+    "file": "getworship--alfa-e-omega",
+    "artist": "GetWorship",
+    "title": "Alfa e Ômega",
+    "tone": "E",
+    "tags": [
+      "adoração",
+      "majestade",
+      "soberania",
+      "eternidade"
+    ]
+  },
+  {
+    "file": "getworship--avivamento",
+    "artist": "GetWorship",
+    "title": "Avivamento",
+    "tone": "B",
+    "tags": [
+      "avivamento",
+      "clamor",
+      "Espírito Santo",
+      "renovação"
+    ]
+  },
+  {
+    "file": "getworship--derrama",
+    "artist": "GetWorship",
+    "title": "Derrama",
+    "tone": "C",
+    "tags": [
+      "Espírito Santo",
+      "avivamento",
+      "poder",
+      "pentecostes"
+    ]
+  },
+  {
+    "file": "getworship--deus-de-pactos",
+    "artist": "GetWorship",
+    "title": "Deus de Pactos",
+    "tone": "D",
+    "tags": [
+      "fidelidade",
+      "promessas",
+      "aliança",
+      "confiança"
+    ]
+  },
+  {
+    "file": "getworship--eu-me-rendo",
+    "artist": "GetWorship",
+    "title": "Eu Me Rendo",
+    "tone": "G",
+    "tags": [
+      "rendição",
+      "entrega",
+      "adoração",
+      "submissão"
+    ]
+  },
+  {
+    "file": "getworship--pai-nosso",
+    "artist": "GetWorship",
+    "title": "Pai Nosso",
+    "tone": "G",
+    "tags": [
+      "oração",
+      "adoração",
+      "devoção",
+      "clamor"
+    ]
+  },
+  {
+    "file": "getworship--presenca",
+    "artist": "GetWorship",
+    "title": "Presença",
+    "tone": "E",
+    "tags": [
+      "presença",
+      "intimidade",
+      "adoração",
+      "busca"
+    ]
+  },
+  {
+    "file": "getworship--santo-santo-santo",
+    "artist": "GetWorship",
+    "title": "Santo Santo Santo",
+    "tone": "F",
+    "tags": [
+      "santidade",
+      "adoração",
+      "majestade",
+      "reverência"
+    ]
+  },
+  {
+    "file": "getworship--teu-nome",
+    "artist": "GetWorship",
+    "title": "Teu Nome",
+    "tone": "D",
+    "tags": [
+      "nome de Jesus",
+      "poder",
+      "adoração",
+      "declaração"
+    ]
+  },
+  {
+    "file": "getworship--vem-reinar",
+    "artist": "GetWorship",
+    "title": "Vem Reinar",
+    "tone": "A",
+    "tags": [
+      "reinado",
+      "soberania",
+      "adoração",
+      "clamor"
+    ]
+  },
+  {
     "file": "heloisa-rosa--vou-deixar-na-cruz",
     "artist": "Heloisa Rosa",
     "title": "Vou Deixar na Cruz",
@@ -385,6 +1525,174 @@
     ]
   },
   {
+    "file": "julliany-souza--adorador",
+    "artist": "Julliany Souza",
+    "title": "Adorador",
+    "tone": "D",
+    "tags": [
+      "adoração",
+      "louvor",
+      "propósito",
+      "entrega"
+    ]
+  },
+  {
+    "file": "julliany-souza--deus-de-amor",
+    "artist": "Julliany Souza",
+    "title": "Deus de Amor",
+    "tone": "A",
+    "tags": [
+      "amor",
+      "adoração",
+      "graça",
+      "gratidão"
+    ]
+  },
+  {
+    "file": "julliany-souza--enche-me",
+    "artist": "Julliany Souza",
+    "title": "Enche-me",
+    "tone": "G",
+    "tags": [
+      "adoração",
+      "presença",
+      "Espírito Santo",
+      "intimidade"
+    ]
+  },
+  {
+    "file": "julliany-souza--entrega",
+    "artist": "Julliany Souza",
+    "title": "Entrega",
+    "tone": "C",
+    "tags": [
+      "entrega",
+      "rendição",
+      "confiança",
+      "descanso"
+    ]
+  },
+  {
+    "file": "julliany-souza--eu-sei-que-tudo-posso",
+    "artist": "Julliany Souza",
+    "title": "Eu Sei que Tudo Posso",
+    "tone": "D",
+    "tags": [
+      "fé",
+      "fortaleza",
+      "confiança",
+      "superação"
+    ]
+  },
+  {
+    "file": "julliany-souza--lugar-santo",
+    "artist": "Julliany Souza",
+    "title": "Lugar Santo",
+    "tone": "F",
+    "tags": [
+      "santidade",
+      "adoração",
+      "presença",
+      "reverência"
+    ]
+  },
+  {
+    "file": "julliany-souza--me-derramar",
+    "artist": "Julliany Souza",
+    "title": "Me Derramar",
+    "tone": "B",
+    "tags": [
+      "adoração",
+      "entrega",
+      "rendição",
+      "sacrifício"
+    ]
+  },
+  {
+    "file": "julliany-souza--respirar",
+    "artist": "Julliany Souza",
+    "title": "Respirar",
+    "tone": "C",
+    "tags": [
+      "adoração",
+      "presença",
+      "intimidade",
+      "paz"
+    ]
+  },
+  {
+    "file": "julliany-souza--tua-presenca",
+    "artist": "Julliany Souza",
+    "title": "Tua Presença",
+    "tone": "E",
+    "tags": [
+      "presença",
+      "intimidade",
+      "adoração",
+      "busca"
+    ]
+  },
+  {
+    "file": "julliany-souza--vem-sobre-mim",
+    "artist": "Julliany Souza",
+    "title": "Vem Sobre Mim",
+    "tone": "G",
+    "tags": [
+      "Espírito Santo",
+      "avivamento",
+      "poder",
+      "busca"
+    ]
+  },
+  {
+    "file": "kemuel--acredite",
+    "artist": "Kemuel",
+    "title": "Acredite",
+    "tone": "D",
+    "tags": [
+      "encorajamento",
+      "esperança",
+      "fé",
+      "perseverança"
+    ]
+  },
+  {
+    "file": "kemuel--de-joelhos",
+    "artist": "Kemuel",
+    "title": "De Joelhos",
+    "tone": "A",
+    "tags": [
+      "oração",
+      "humildade",
+      "busca",
+      "intercessão"
+    ]
+  },
+  {
+    "file": "kemuel--deus-cuida-de-mim",
+    "artist": "Kemuel",
+    "title": "Deus Cuida de Mim",
+    "tone": "C",
+    "tags": [
+      "cuidado",
+      "provisão",
+      "confiança",
+      "paz"
+    ]
+  },
+  {
+    "file": "kemuel--eu-sei",
+    "artist": "Kemuel",
+    "title": "Eu Sei",
+    "tone": "F",
+    "tags": [
+      "certeza",
+      "fé",
+      "confiança",
+      "fidelidade"
+    ]
+  },
+  {
     "file": "kemuel--fica-tranquilo",
     "artist": "Kemuel",
     "title": "Fica Tranquilo",
@@ -394,6 +1702,78 @@
       "confiança",
       "ansiedade",
       "conforto"
+    ]
+  },
+  {
+    "file": "kemuel--liberdade",
+    "artist": "Kemuel",
+    "title": "Liberdade",
+    "tone": "E",
+    "tags": [
+      "liberdade",
+      "libertação",
+      "Espírito Santo",
+      "salvação"
+    ]
+  },
+  {
+    "file": "kemuel--mais-que-vencedor",
+    "artist": "Kemuel",
+    "title": "Mais que Vencedor",
+    "tone": "G",
+    "tags": [
+      "vitória",
+      "superação",
+      "fé",
+      "perseverança"
+    ]
+  },
+  {
+    "file": "kemuel--nao-temas",
+    "artist": "Kemuel",
+    "title": "Não Temas",
+    "tone": "A",
+    "tags": [
+      "coragem",
+      "confiança",
+      "proteção",
+      "fé"
+    ]
+  },
+  {
+    "file": "kemuel--palavras",
+    "artist": "Kemuel",
+    "title": "Palavras",
+    "tone": "G",
+    "tags": [
+      "adoração",
+      "contemplação",
+      "amor",
+      "louvor"
+    ]
+  },
+  {
+    "file": "kemuel--teu-amor",
+    "artist": "Kemuel",
+    "title": "Teu Amor",
+    "tone": "C",
+    "tags": [
+      "amor",
+      "graça",
+      "redenção",
+      "fidelidade"
+    ]
+  },
+  {
+    "file": "kemuel--vai-valer-a-pena",
+    "artist": "Kemuel",
+    "title": "Vai Valer a Pena",
+    "tone": "D",
+    "tags": [
+      "perseverança",
+      "esperança",
+      "encorajamento",
+      "propósito"
     ]
   },
   {
@@ -409,6 +1789,102 @@
     ]
   },
   {
+    "file": "laura-souguellis--atos-2",
+    "artist": "Laura Souguellis",
+    "title": "Atos 2",
+    "tone": "F",
+    "tags": [
+      "Espírito Santo",
+      "avivamento",
+      "pentecostes",
+      "poder"
+    ]
+  },
+  {
+    "file": "laura-souguellis--deus-esta-aqui",
+    "artist": "Laura Souguellis",
+    "title": "Deus Está Aqui",
+    "tone": "E",
+    "tags": [
+      "presença",
+      "adoração",
+      "congregação",
+      "mover"
+    ]
+  },
+  {
+    "file": "laura-souguellis--eu-navegarei",
+    "artist": "Laura Souguellis",
+    "title": "Eu Navegarei",
+    "tone": "A",
+    "tags": [
+      "fé",
+      "confiança",
+      "coragem",
+      "adoração"
+    ]
+  },
+  {
+    "file": "laura-souguellis--livre-sou",
+    "artist": "Laura Souguellis",
+    "title": "Livre Sou",
+    "tone": "G",
+    "tags": [
+      "liberdade",
+      "salvação",
+      "adoração",
+      "vitória"
+    ]
+  },
+  {
+    "file": "laura-souguellis--luz-do-mundo",
+    "artist": "Laura Souguellis",
+    "title": "Luz do Mundo",
+    "tone": "D",
+    "tags": [
+      "Jesus",
+      "luz",
+      "adoração",
+      "esperança"
+    ]
+  },
+  {
+    "file": "laura-souguellis--meu-primeiro-amor",
+    "artist": "Laura Souguellis",
+    "title": "Meu Primeiro Amor",
+    "tone": "B",
+    "tags": [
+      "primeiro amor",
+      "restauração",
+      "intimidade",
+      "adoração"
+    ]
+  },
+  {
+    "file": "laura-souguellis--o-amor-esta-aqui",
+    "artist": "Laura Souguellis",
+    "title": "O Amor Está Aqui",
+    "tone": "C",
+    "tags": [
+      "amor",
+      "presença",
+      "adoração",
+      "liberdade"
+    ]
+  },
+  {
+    "file": "laura-souguellis--pra-te-adorar",
+    "artist": "Laura Souguellis",
+    "title": "Pra Te Adorar",
+    "tone": "D",
+    "tags": [
+      "adoração",
+      "louvor",
+      "entrega",
+      "propósito"
+    ]
+  },
+  {
     "file": "laura-souguellis--santo-espirito",
     "artist": "Laura Souguellis",
     "title": "Santo Espírito",
@@ -418,6 +1894,30 @@
       "adoração",
       "pentecostes",
       "avivamento"
+    ]
+  },
+  {
+    "file": "laura-souguellis--sopra",
+    "artist": "Laura Souguellis",
+    "title": "Sopra",
+    "tone": "C",
+    "tags": [
+      "Espírito Santo",
+      "avivamento",
+      "vida",
+      "restauração"
+    ]
+  },
+  {
+    "file": "laura-souguellis--todavia-me-alegrarei",
+    "artist": "Laura Souguellis",
+    "title": "Todavia Me Alegrarei",
+    "tone": "G",
+    "tags": [
+      "fé",
+      "adoração",
+      "confiança",
+      "alegria"
     ]
   },
   {
@@ -433,6 +1933,126 @@
     ]
   },
   {
+    "file": "lukas-agostinho--adoracao-profetica",
+    "artist": "Lukas Agostinho",
+    "title": "Adoração Profética",
+    "tone": "A",
+    "tags": [
+      "profético",
+      "adoração",
+      "Espírito Santo",
+      "declaração"
+    ]
+  },
+  {
+    "file": "lukas-agostinho--aviva",
+    "artist": "Lukas Agostinho",
+    "title": "Aviva",
+    "tone": "B",
+    "tags": [
+      "avivamento",
+      "Espírito Santo",
+      "restauração",
+      "poder"
+    ]
+  },
+  {
+    "file": "lukas-agostinho--chuva-de-gloria",
+    "artist": "Lukas Agostinho",
+    "title": "Chuva de Glória",
+    "tone": "A",
+    "tags": [
+      "avivamento",
+      "Espírito Santo",
+      "glória",
+      "derramamento"
+    ]
+  },
+  {
+    "file": "lukas-agostinho--emanuel",
+    "artist": "Lukas Agostinho",
+    "title": "Emanuel",
+    "tone": "G",
+    "tags": [
+      "Emanuel",
+      "presença de Deus",
+      "adoração",
+      "encarnação"
+    ]
+  },
+  {
+    "file": "lukas-agostinho--fogo-consumidor",
+    "artist": "Lukas Agostinho",
+    "title": "Fogo Consumidor",
+    "tone": "D",
+    "tags": [
+      "fogo",
+      "Espírito Santo",
+      "purificação",
+      "consagração"
+    ]
+  },
+  {
+    "file": "lukas-agostinho--refugio",
+    "artist": "Lukas Agostinho",
+    "title": "Refúgio",
+    "tone": "C",
+    "tags": [
+      "refúgio",
+      "proteção",
+      "confiança",
+      "paz"
+    ]
+  },
+  {
+    "file": "lukas-agostinho--rendicao",
+    "artist": "Lukas Agostinho",
+    "title": "Rendição",
+    "tone": "F",
+    "tags": [
+      "rendição",
+      "entrega",
+      "vontade de Deus",
+      "consagração"
+    ]
+  },
+  {
+    "file": "lukas-agostinho--rio-de-vida",
+    "artist": "Lukas Agostinho",
+    "title": "Rio de Vida",
+    "tone": "D",
+    "tags": [
+      "rio",
+      "Espírito Santo",
+      "vida",
+      "cura"
+    ]
+  },
+  {
+    "file": "lukas-agostinho--santo",
+    "artist": "Lukas Agostinho",
+    "title": "Santo",
+    "tone": "E",
+    "tags": [
+      "santidade",
+      "adoração",
+      "majestade",
+      "reverência"
+    ]
+  },
+  {
+    "file": "lukas-agostinho--yeshua",
+    "artist": "Lukas Agostinho",
+    "title": "Yeshua",
+    "tone": "G",
+    "tags": [
+      "adoração",
+      "nome de Jesus",
+      "poder",
+      "cura"
+    ]
+  },
+  {
     "file": "luma-elpidio--bondade-de-deus",
     "artist": "Luma Elpidio",
     "title": "Bondade de Deus",
@@ -442,6 +2062,126 @@
       "gratidão",
       "adoração",
       "louvor"
+    ]
+  },
+  {
+    "file": "marcos-freire--a-casa-e-sua",
+    "artist": "Marcos Freire",
+    "title": "A Casa é Sua",
+    "tone": "G",
+    "tags": [
+      "presença de Deus",
+      "adoração",
+      "culto",
+      "entrega"
+    ]
+  },
+  {
+    "file": "marcos-freire--em-tua-presenca",
+    "artist": "Marcos Freire",
+    "title": "Em Tua Presença",
+    "tone": "C",
+    "tags": [
+      "presença de Deus",
+      "intimidade",
+      "adoração",
+      "paz"
+    ]
+  },
+  {
+    "file": "marcos-freire--me-da-forcas",
+    "artist": "Marcos Freire",
+    "title": "Me Dá Forças",
+    "tone": "E",
+    "tags": [
+      "força",
+      "perseverança",
+      "confiança",
+      "sustento"
+    ]
+  },
+  {
+    "file": "marcos-freire--minha-heranca",
+    "artist": "Marcos Freire",
+    "title": "Minha Herança",
+    "tone": "G",
+    "tags": [
+      "herança",
+      "contentamento",
+      "adoração",
+      "Salmos"
+    ]
+  },
+  {
+    "file": "marcos-freire--planos",
+    "artist": "Marcos Freire",
+    "title": "Planos",
+    "tone": "C",
+    "tags": [
+      "planos",
+      "confiança",
+      "propósito",
+      "fidelidade"
+    ]
+  },
+  {
+    "file": "marcos-freire--rei-dos-reis",
+    "artist": "Marcos Freire",
+    "title": "Rei dos Reis",
+    "tone": "D",
+    "tags": [
+      "realeza",
+      "soberania",
+      "adoração",
+      "majestade"
+    ]
+  },
+  {
+    "file": "marcos-freire--restauracao",
+    "artist": "Marcos Freire",
+    "title": "Restauração",
+    "tone": "D",
+    "tags": [
+      "restauração",
+      "esperança",
+      "reconstrução",
+      "milagre"
+    ]
+  },
+  {
+    "file": "marcos-freire--tu-es-o-centro",
+    "artist": "Marcos Freire",
+    "title": "Tu és o Centro",
+    "tone": "E",
+    "tags": [
+      "centralidade",
+      "adoração",
+      "prioridade",
+      "entrega"
+    ]
+  },
+  {
+    "file": "marcos-freire--tua-graca-me-basta",
+    "artist": "Marcos Freire",
+    "title": "Tua Graça me Basta",
+    "tone": "A",
+    "tags": [
+      "graça",
+      "suficiência",
+      "fraqueza",
+      "amor"
+    ]
+  },
+  {
+    "file": "marcos-freire--vencedor",
+    "artist": "Marcos Freire",
+    "title": "Vencedor",
+    "tone": "F",
+    "tags": [
+      "vitória",
+      "guerra espiritual",
+      "fé",
+      "superação"
     ]
   },
   {
@@ -551,6 +2291,126 @@
       "louvor",
       "exaltação",
       "congregacional"
+    ]
+  },
+  {
+    "file": "rodolfo-abrantes--advogado-fiel",
+    "artist": "Rodolfo Abrantes",
+    "title": "Advogado Fiel",
+    "tone": "A",
+    "tags": [
+      "Jesus",
+      "graça",
+      "intercessão",
+      "salvação"
+    ]
+  },
+  {
+    "file": "rodolfo-abrantes--cura-me",
+    "artist": "Rodolfo Abrantes",
+    "title": "Cura-me",
+    "tone": "C",
+    "tags": [
+      "cura",
+      "restauração",
+      "fé",
+      "adoração"
+    ]
+  },
+  {
+    "file": "rodolfo-abrantes--deus-de-promessas",
+    "artist": "Rodolfo Abrantes",
+    "title": "Deus de Promessas",
+    "tone": "F",
+    "tags": [
+      "fidelidade",
+      "promessas",
+      "fé",
+      "confiança"
+    ]
+  },
+  {
+    "file": "rodolfo-abrantes--eu-escolho-deus",
+    "artist": "Rodolfo Abrantes",
+    "title": "Eu Escolho Deus",
+    "tone": "E",
+    "tags": [
+      "decisão",
+      "fé",
+      "compromisso",
+      "adoração"
+    ]
+  },
+  {
+    "file": "rodolfo-abrantes--guerreiro",
+    "artist": "Rodolfo Abrantes",
+    "title": "Guerreiro",
+    "tone": "E",
+    "tags": [
+      "guerra espiritual",
+      "vitória",
+      "fé",
+      "fortaleza"
+    ]
+  },
+  {
+    "file": "rodolfo-abrantes--meu-respirar",
+    "artist": "Rodolfo Abrantes",
+    "title": "Meu Respirar",
+    "tone": "B",
+    "tags": [
+      "dependência",
+      "adoração",
+      "intimidade",
+      "devoção"
+    ]
+  },
+  {
+    "file": "rodolfo-abrantes--na-sala-do-trono",
+    "artist": "Rodolfo Abrantes",
+    "title": "Na Sala do Trono",
+    "tone": "D",
+    "tags": [
+      "adoração",
+      "trono",
+      "reverência",
+      "majestade"
+    ]
+  },
+  {
+    "file": "rodolfo-abrantes--pra-sempre",
+    "artist": "Rodolfo Abrantes",
+    "title": "Pra Sempre",
+    "tone": "G",
+    "tags": [
+      "eternidade",
+      "adoração",
+      "fidelidade",
+      "louvor"
+    ]
+  },
+  {
+    "file": "rodolfo-abrantes--quebrantado",
+    "artist": "Rodolfo Abrantes",
+    "title": "Quebrantado",
+    "tone": "G",
+    "tags": [
+      "quebrantamento",
+      "humildade",
+      "rendição",
+      "adoração"
+    ]
+  },
+  {
+    "file": "rodolfo-abrantes--restituicao",
+    "artist": "Rodolfo Abrantes",
+    "title": "Restituição",
+    "tone": "D",
+    "tags": [
+      "restituição",
+      "fé",
+      "promessa",
+      "esperança"
     ]
   },
   {
